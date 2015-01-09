@@ -1,4 +1,4 @@
-exercism_2014
+exercism_2015
 =============
 
-Exercism exercises completed in 2014 
+Exercism exercises completed in 2015
